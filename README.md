@@ -11,3 +11,4 @@
   - https://www.seterra.com/
   - https://geotastic.net/
   - https://travle.earth/
+  - https://openguessr.com/
