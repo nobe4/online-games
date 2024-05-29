@@ -6,6 +6,7 @@
 - https://makeitmeme.com/
 - https://songl.io/
 - https://codenames.game/ / https://www.horsepaste.com/
+- https://www.foodguessr.com/
 - Geography
   - https://www.seterra.com/
   - https://geotastic.net/
