@@ -7,6 +7,7 @@
 - https://songl.io/
 - https://codenames.game/ / https://www.horsepaste.com/
 - https://www.foodguessr.com/
+- https://quiztopia.co.uk/
 - Geography
   - https://www.seterra.com/
   - https://geotastic.net/
