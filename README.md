@@ -8,6 +8,8 @@
 - https://codenames.game/ / https://www.horsepaste.com/
 - https://www.foodguessr.com/
 - https://quiztopia.co.uk/
+- https://squabble.me/
+- https://scattergoriesonline.net/
 - Geography
   - https://www.seterra.com/
   - https://geotastic.net/
