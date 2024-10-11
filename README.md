@@ -1,17 +1,23 @@
-# online-games
+# Online-games
 
-- https://wikispeedruns.com/
-- https://redactle-unlimited.com/
-- https://songtrivia2.io/
-- https://makeitmeme.com/
-- https://songl.io/
-- https://codenames.game/ / https://www.horsepaste.com/
-- https://www.foodguessr.com/
-- https://quiztopia.co.uk/
-- https://squabble.me/
-- https://scattergoriesonline.net/
+Online free games with minimal setup required and multiplayer.
+
+- Wikipedia
+  - https://wikispeedruns.com/
+  - https://redactle-unlimited.com/
+- Music
+  - https://songtrivia2.io/
+  - https://songl.io/
+- Word
+  - https://squabble.me/
+  - https://scattergoriesonline.net/
 - Geography
   - https://www.seterra.com/
   - https://geotastic.net/
   - https://travle.earth/
   - https://openguessr.com/
+- Misc
+  - https://makeitmeme.com/
+  - https://codenames.game/ / https://www.horsepaste.com/
+  - https://www.foodguessr.com/
+  - https://quiztopia.co.uk/
