@@ -21,3 +21,4 @@ Online free games with minimal setup required and multiplayer.
   - https://codenames.game/ / https://www.horsepaste.com/
   - https://www.foodguessr.com/
   - https://quiztopia.co.uk/
+  - https://bloxd.io/
