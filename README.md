@@ -16,6 +16,7 @@ Online free games with minimal setup required and multiplayer.
   - https://geotastic.net/
   - https://travle.earth/
   - https://openguessr.com/
+  - https://languageguessr.io/
 - Misc
   - https://makeitmeme.com/
   - https://codenames.game/ / https://www.horsepaste.com/
