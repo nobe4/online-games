@@ -11,6 +11,7 @@ Online free games with minimal setup required and multiplayer.
 - Word
   - https://squabble.me/
   - https://scattergoriesonline.net/
+  - https://jklm.fun/ (min 3)
 - Geography
   - https://www.seterra.com/
   - https://geotastic.net/
